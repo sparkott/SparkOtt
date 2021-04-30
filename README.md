@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!--
+<!--"Spark"-the much-awaited platform is soon set to release.
+Step into the "Spark", an exclusive Telugu streaming platform 
+It's time to shine your screens with the top Telugu streaming platform 
+Subscribe to spark originals there’s huge content to overwhelm this week.
+Watch the fantastic movies, 
+
 **sparkott/SparkOtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
